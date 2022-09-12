@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sadique43
 - 👀 I’m interested in Web-Development and App development
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on ndroid Project
+- 🌱 I’m pursuing my career as a Front-End Developer.
+- 💞️ I’m happy with my work and life.😊
 - 📫 How to reach me adiqueakhtar@gmail.com
 
 <!---
